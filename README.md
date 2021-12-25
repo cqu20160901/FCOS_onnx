@@ -8,4 +8,4 @@ python
 onnx
 
 # 测试结果
-![image](https://user-images.githubusercontent.com/22290931/147376714-6d0e9c18-c0ca-48b9-8f2a-d7e5beeedcbe.png)
+![image](https://github.com/cqu20160901/FCOS_onnx/blob/master/result.jpg)
